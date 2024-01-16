@@ -1,0 +1,13 @@
+Package: mbash
+Version: 0.2
+Maintainer: Baptiste Fumeron-Lecomte, Kerrian Gesnel
+Architecture: all
+Priority: standard
+Section: mbash
+Filename: pool/main/m/mbash/mbash_0.2_all.deb
+Size: 5808
+SHA256: 56bcef2b35ec3e7be5d188aa02e11aa0f8152f73a8baa437918ba92f1d6f22a1
+SHA1: 2728316c1bc683a8fecba890c7a79e41eff6eacd
+MD5sum: 1c9933f2504f1b16970f7ea7fce7bdd6
+Description: Un bash miniature installable sur Linux.
+

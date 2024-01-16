@@ -1,0 +1,5 @@
+Component: main
+Origin: mbash
+Label: mbash
+Architecture: amd64
+Description: Repo apt pour le projet mbash

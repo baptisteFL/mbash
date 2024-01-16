@@ -1,0 +1,37 @@
+Origin: mbash
+Label: mbash
+Codename: jammy
+Date: Mon, 15 Jan 2024 16:40:18 UTC
+Architectures: i386 amd64
+Components: main
+Description: Repo apt pour le projet mbash
+MD5Sum:
+ ee272c7572f25f9854048d3a5ba69f7b 406 main/binary-i386/Packages
+ 603bd17334c64be96d37c033b8135f98 317 main/binary-i386/Packages.gz
+ d094bba828dd8d6cd227e5195fc8f61d 105 main/binary-i386/Release
+ ee272c7572f25f9854048d3a5ba69f7b 406 main/binary-amd64/Packages
+ 603bd17334c64be96d37c033b8135f98 317 main/binary-amd64/Packages.gz
+ f126a24e15b135bc09899bbc50c033e9 106 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ cf7b8350f187727f3cc901e29a6b7e72 107 main/source/Release
+SHA1:
+ d663c8a3d2ad9284994f477370df61c7a5aa9a1b 406 main/binary-i386/Packages
+ 13b89c61b58b874cf770c6ab2298b884c15a488f 317 main/binary-i386/Packages.gz
+ f4fa16b0da4f6372b82a5df7142a01df101a0540 105 main/binary-i386/Release
+ d663c8a3d2ad9284994f477370df61c7a5aa9a1b 406 main/binary-amd64/Packages
+ 13b89c61b58b874cf770c6ab2298b884c15a488f 317 main/binary-amd64/Packages.gz
+ b6f0ae1f00bf712c353584d157577648df197d42 106 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ dad56de3b7a66687948c0145e397397bb8fbb082 107 main/source/Release
+SHA256:
+ 2f5710fb91d165252b4619de3bbeba68f35dedb64d5093ab7ca750141e9dbc30 406 main/binary-i386/Packages
+ 0abe054a80a66710daa823e97b156c850a5306485c87b4fc0dd813c84ca84e6f 317 main/binary-i386/Packages.gz
+ cf53548d368565b7a20e543c5108f0c4cf9d346ca60811d6cca5f347703a1e57 105 main/binary-i386/Release
+ 2f5710fb91d165252b4619de3bbeba68f35dedb64d5093ab7ca750141e9dbc30 406 main/binary-amd64/Packages
+ 0abe054a80a66710daa823e97b156c850a5306485c87b4fc0dd813c84ca84e6f 317 main/binary-amd64/Packages.gz
+ c6957e980c527308e204dee5363be5cfb80e7b4510554dade4970c2d9f7e2ed6 106 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ cc52680c94e46c795a10e5b731aabd7f1e0c809fa9149561d4fe7604dbf956b5 107 main/source/Release

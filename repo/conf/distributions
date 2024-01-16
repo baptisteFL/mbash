@@ -1,0 +1,7 @@
+Origin: mbash
+Label: mbash
+Codename: jammy
+Architectures: source i386 amd64
+Components: main
+Description: Repo apt pour le projet mbash
+SignWith: 40698405D3575271E9140C85D557332015262AE6

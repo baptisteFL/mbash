@@ -1,0 +1,5 @@
+Component: main
+Origin: mbash
+Label: mbash
+Architecture: source
+Description: Repo apt pour le projet mbash
